@@ -1,9 +1,6 @@
 ☕ Dashboard de Ventas de Café
 Este proyecto es un dashboard interactivo creado con Streamlit para visualizar y analizar datos de ventas de una tienda de café. El dashboard carga datos desde un archivo CSV y presenta las métricas clave en una interfaz web limpia e intuitiva.
 
-📊 Vista Previa
-(Aquí puedes añadir una captura de pantalla de tu dashboard en funcionamiento)
-
 ✨ Características Principales
 El dashboard está dividido en dos secciones principales:
 
@@ -70,5 +67,6 @@ Month_name: (Texto) El nombre del mes (ej. "Enero", "Febrero").
 Monthsort: (Numérico) Un índice para ordenar los meses (ej. 1 para Enero, 2 para Febrero...).
 
 hour_of_day: (Numérico o Texto) La hora específica de la venta (será tratada como una categoría).
+
 
 coffee_name: (Texto) El nombre o tipo del café vendido.
